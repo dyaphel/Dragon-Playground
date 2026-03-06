@@ -1,0 +1,6 @@
+[submodule "Hermes"]
+	path = Hermes
+	url = https://github.com/dyaphel/Hermes.git
+[submodule "Text-Analyzer"]
+	path = Text-Analyzer
+	url = https://github.com/dyaphel/Text-Analyzer.git
